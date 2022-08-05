@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickyMartinez16
-- 👀 I’m interested in sports, movies and running
+- 👀 I’m interested in sports, movies and running!
 - 🌱 I’m a 2022 graduate from Thinkul's Full Stack Software Engineering Bootcamp
 - 💞️ I’m looking to collaborate on anything that might help grow my skills!
 - 📫 How to reach me: RMartinezW16@gmail.com
